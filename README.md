@@ -1,6 +1,6 @@
 ## Project summary: 
 
-Used 2 types of collaborative filtering algorithms: Memory-based and Model-based on 2 data sets, `Ananoymous Microsoft Web` for implicit rating (website visited or not, 1 or 0), and `EachMovie` for explicit rating (voting value between 0 and 5), to predict users' ratings on webpages or movies they have't rated, which indicates they might not know thesed items, and based on the ratings, these items could be good recommendations for them. Details can be found in [`main.R`](https://github.com/ginnyqg/collaborative-filtering/blob/master/doc/main.R).
+Used 2 types of collaborative filtering algorithms: Memory-based and Model-based on 2 data sets, [`Ananoymous Microsoft Web`](https://archive.ics.uci.edu/ml/datasets/Anonymous+Microsoft+Web+Data) for implicit rating (website visited or not, 1 or 0), and [`EachMovie`](http://www.gatsby.ucl.ac.uk/~chuwei/data/EachMovie/eachmovie.html) for explicit rating (voting value between 0 and 5), to predict users' ratings on webpages or movies they have't rated, which indicates they might not know thesed items, and based on the ratings, these items could be good recommendations for them. Details can be found in [`main.R`](https://github.com/ginnyqg/collaborative-filtering/blob/master/doc/main.R).
 
 ## Memory-based Algorithm:
 
